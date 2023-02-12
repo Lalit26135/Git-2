@@ -9,7 +9,7 @@ count++;
 }
 }
 if(count==1){
-console.log("prime");
+console.log("this is prime number");
 }else{
 console.log("no prime");
 }
